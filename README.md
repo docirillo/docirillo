@@ -1,6 +1,3 @@
-Hi there, I'm Daniel!
-
-- 🌱 I’m currently learning web full stack development.
 
 <div style="display:inline_block"><br>
   <a href="https://github.com/docirillo">
